@@ -5,21 +5,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentat
 		GroupMembers.md = GroupMembers.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assignment 1", "assignment 1", "{FB6926A2-DA1D-40A6-B337-3560F45EC59C}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\Desktop\VIA\semster 6\DCA1\Class Diagram0.png = ..\..\Desktop\VIA\semster 6\DCA1\Class Diagram0.png
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assignment2", "Assignment2", "{A4623C8D-EFF3-4B2B-B7DA-7B14DC27A257}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{FB6926A2-DA1D-40A6-B337-3560F45EC59C} = {F4463134-0DEA-4EE4-B1D6-9E623AD4BA60}
-		{A4623C8D-EFF3-4B2B-B7DA-7B14DC27A257} = {F4463134-0DEA-4EE4-B1D6-9E623AD4BA60}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 	EndGlobalSection
